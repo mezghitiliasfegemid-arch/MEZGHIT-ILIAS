@@ -19,3 +19,8 @@ Dashboard interactif pour le pilotage des indicateurs clés (CA, marges, saisonn
 - **Langages :** Python (Pandas, Scikit-Learn)
 - **Visualisation :** Power BI, Excel (TCD)
 - **Analyse :** Machine Learning, Économétrie, Data Cleaning
+  ---
+
+## 📫 Me contacter
+- **LinkedIn :** [linkedin.com/in/ilias-mezghit](https://linkedin.com/in/ilias-mezghit)
+- **Email :** mezghit.ilias.feg_emid@uhp.ac.ma
